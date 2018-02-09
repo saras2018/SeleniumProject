@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [SuiteXcel]" parallel="none">
+  <test name="TestExcel(failed)" parallel="none">
+    <classes>
+      <class name="wdMethods.CreateLead">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="createLead"/>
+          <include name="beforeSuite"/>
+          <include name="afterClass"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- wdMethods.CreateLead -->
+    </classes>
+  </test> <!-- TestExcel(failed) -->
+</suite> <!-- Failed suite [SuiteXcel] -->

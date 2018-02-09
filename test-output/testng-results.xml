@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10687" started-at="2018-01-12T15:54:34Z" finished-at="2018-01-12T15:54:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10687" started-at="2018-01-12T15:54:34Z" finished-at="2018-01-12T15:54:44Z">
+      <class name="sampleForFrame">
+        <test-method status="PASS" signature="SampleForFrame()[pri:0, instance:sampleForFrame@fb434]" name="SampleForFrame" duration-ms="10673" started-at="2018-01-12T21:24:34Z" finished-at="2018-01-12T21:24:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SampleForFrame -->
+      </class> <!-- sampleForFrame -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
